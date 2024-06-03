@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Partahi Bonaruli Sitorus
+NIU : 482615
+Sesi : Senin, 3 Juni 2024 07.30 - 09.30   
+Secret String : 958cd6db07d20958219a075f4b9bed26633fcd6c5118f0196d3ced3031a2dcd920240603011327
 
 ## Checklist Responsi
 
